@@ -1,0 +1,15 @@
+{
+  "name": "java-course-advanced",
+  "version": "1.0.0",
+  "description": "Road to learn full stack web development",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node -e \"console.log('786')\""
+  },
+  "keywords": [
+    "jscourse"
+  ],
+  "author": "agha ammar",
+  "license": "ISC"
+}
