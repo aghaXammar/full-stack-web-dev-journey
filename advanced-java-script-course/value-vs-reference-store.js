@@ -24,3 +24,4 @@ literal_1.name='haider';
 a.name='agha';
 
 console.log(b)
+

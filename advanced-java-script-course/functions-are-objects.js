@@ -26,7 +26,7 @@ function calculatePrice(GroceryItem, price) {
 priceOfItem = calculatePrice(newItem1,60)
 console.log(priceOfItem);
 //Done
-
+ 
 
 //functions are objects
 
