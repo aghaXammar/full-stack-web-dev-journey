@@ -11,5 +11,9 @@
     "jscourse"
   ],
   "author": "agha ammar",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "@tailwindcss/vite": "^4.0.15",
+    "tailwindcss": "^4.0.15"
+  }
 }
